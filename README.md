@@ -1,6 +1,6 @@
 # MY LEARNING
 Documenting my coding journey!!!
 
-##Started github Using a tutorial on youtube from freecodecamp.
+## SUB HEADING.
 
-This tutorial is done by Gwendolyn Faraday from the Faraday academy.
+Started by a youtube tutorial done by Gwendolyn Faraday from the Faraday academy.
