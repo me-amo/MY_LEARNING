@@ -7,4 +7,4 @@ Started by a youtube tutorial done by Gwendolyn Faraday from the Faraday academy
 
 ## A NEW BRANCH
 
-We will create some html inside this branch
+This branch is purely for learning purposes, we will create some html in it in future.
