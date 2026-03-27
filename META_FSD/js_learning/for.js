@@ -1,10 +1,15 @@
-for (var i = 1; i <= 5; i++) {
-    console.log(i);
+var i=1
+for(i = 1; i <= 10; i++){
+    if(i == 1){
+        console.log("Gold medal")
+    }
+    else if(i == 2){
+        console.log("Silver medal")
+    }
+    else if(i == 3){
+        console.log("Bronze medal")
+    }
+    else {
+        console.log(i)
+    }
 }
-
-console.log("Counting completed")
-
-for (var i = 5; i >= 1; i--) {
-    console.log(i);
-}
-console.log("Countdown completed")
